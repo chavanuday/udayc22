@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udayc22
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning fullstack web development 
+- 👀 I’m a front end web developer 
+- 🌱 Contact:- +91 7304022360
 - 📫 You can mail me on - udaymchavan228@gmail.com 
 
 <!---
